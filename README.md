@@ -66,9 +66,9 @@ me.skills()
 
 ## GitHub Stats
 
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIABDOESDATA&show_icons=true&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIABDOESDATA&layout=compact&hide_border=true)
 
 ## A Little More About Me
 
@@ -77,5 +77,5 @@ I enjoy working on motorcycles and cars, building cafe racers, and creating thin
 
 ## Let’s Connect
 
-- LinkedIn: [Add your LinkedIn link]
-- Portfolio / Website: [Add link if you want]
+- LinkedIn: https://www.linkedin.com/in/husseindiab/
+- Portfolio / Website: https://www.DiabDoesData.com
